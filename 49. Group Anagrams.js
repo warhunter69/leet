@@ -17,7 +17,7 @@ var groupAnagrams = function(strs) {
     }
     console.log(map)
     map.forEach((value,key)=>{
-        output.push(value)
+        output.push(value);
                 
                 })
     return output
